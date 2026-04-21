@@ -47,9 +47,9 @@ I trained the model using different values of λ to observe how sparsity and acc
 
 | Lambda | Test Accuracy | Sparsity (%) |
 | ------ | ------------- | ------------ |
-| 1e-5   |               |              |
-| 1e-4   |               |              |
-| 1e-3   |               |              |
+| 1e-5   |     47.23%    |    1.20%     |
+| 1e-4   |     44.98%    |    1.60%     |
+| 1e-3   |     42.25%    |    1.72%     |
 
 (Results depend on training and hyperparameters)
 
